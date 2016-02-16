@@ -3,7 +3,6 @@ language: PHP
 contributors:
     - ["Malcolm Fell", "http://emarref.net/"]
     - ["Trismegiste", "https://github.com/Trismegiste"]
-filename: learnphp.php
 ---
 
 This document describes PHP 5+.
